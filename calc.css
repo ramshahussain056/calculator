@@ -1,0 +1,46 @@
+
+
+.formstyle{
+
+    margin:auto;
+    padding: 15px;
+    width: 250px;
+    background-color: rgb(48, 105, 105);
+    border: 15px solid rgb(54, 43, 71);
+    border-radius: 8px;
+}
+
+
+
+
+
+
+input{ 
+   
+    
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    margin: auto;
+    font-size: medium;
+    text-align: center;
+    display: ;
+
+
+}
+h1{ 
+   
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    margin: auto;
+    font-size: xx-large;
+    text-align: center;
+
+
+}
+#ce{ 
+    
+    float: right;
+    
+}
